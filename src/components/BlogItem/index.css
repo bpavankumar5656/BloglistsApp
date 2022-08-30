@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.blogItem-container {
+  list-style-type: none;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+}
